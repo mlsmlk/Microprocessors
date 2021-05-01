@@ -1,5 +1,4 @@
 # Microprocessors
-ECSE 444 - Lab Assignments
 STMicroelectronics Discovery Kit for IoT, B-L475E-IOT01A1 board and STM32 Cube/ IDE were used for designing the labs. 
 <br> <br>
 __*Lab 0*__: Blink LED <br> <br>
